@@ -14,7 +14,7 @@ setup(
     description="A image processing library for DIO's bootcamp",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Dpbm/image-processing-dio"
+    url="https://github.com/Dpbm/image-processing-dio",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
