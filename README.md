@@ -4,3 +4,10 @@
 
 This library is based on [tiemi/image-processing-package](https://github.com/tiemi/image-processing-package).
 
+
+### Install
+
+```bash
+pip install dio-image-processing-project
+```
+
